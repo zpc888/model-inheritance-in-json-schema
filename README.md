@@ -1,6 +1,6 @@
 # Model inheritance in json schema 
 
-In Json schema, it can use descriminator to model class inheritance, it is a little bit verbose, but it can be done. Here is a UML structure:
+In Json schema, it can use descriminator to model class inheritance, it is a little bit verbose.
 
 ![uml-structure](./inheritance-model-in-json-schema.png)
 
