@@ -1,6 +1,6 @@
 # Model inheritance in json schema 
 
-In Json schema, it can use descriminator to model class inheritance, it is a little bit verbose.
+A couple of years ago, when I tried to see how to model the class inheritance in json schema, I came out this example structure. The end json-schema, using descriminator, meets the requirement. It seems capable of competeting with normal OO language although it is a little bit verbose. But if using a nice UI to hide the verbose part by applying code-gen behind the scene, the target application can be very flexible.
 
 ![uml-structure](./inheritance-model-in-json-schema.png)
 
